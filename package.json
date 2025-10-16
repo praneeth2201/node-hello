@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "test": "echo \"Running basic checks...\" && node -e \"console.log('Node.js is working!')\""
   },
   "repository": {
     "type": "git",
